@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EducationApp</string>
+    <string name="pref_key_transition_time" translatable="false">pref_key_transition_time</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_profile">Profile</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+</resources>
