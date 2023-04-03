@@ -3,7 +3,7 @@
 This is a student-friendly app enabling them to get reviews and notes related to modules they may be taking or considering. It offers insights and tips from those who have successfully completed the modules through peer-to-peer or senior-student sharing. With this, students can get a better understanding of the modules and make more informed decisions.
 
 ## Screenshots
-![Login](https://github.com/talha-malik-05/EducationAppDesign/blob/master/images/login.jpg)
+![Login](https://github.com/talha-malik-05/EducationAppDesign/blob/master/images/login.jpg | width=100)
 ![Home](https://github.com/talha-malik-05/EducationAppDesign/blob/master/images/home.jpg)
 ![Add Course](https://github.com/talha-malik-05/EducationAppDesign/blob/master/images/add_course.jpg)
 ![Search](https://github.com/talha-malik-05/EducationAppDesign/blob/master/images/search.jpg)
